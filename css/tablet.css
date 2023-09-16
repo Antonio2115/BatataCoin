@@ -1,0 +1,10 @@
+.main-tables-container {
+    justify-content: center;
+    margin: 0 auto;
+    width: 930px;
+    overflow: hidden;
+}
+.plans-container--slider{
+    justify-content: center;
+    overflow: hidden;
+}
